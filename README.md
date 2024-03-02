@@ -1,0 +1,3 @@
+## Python_Horizontal_Bar_Chart
+
+`Topic`: This Python script visualizes the population growth of cities from 1500 to 2023 through an animated horizontal bar chart. Utilizing pandas for data management and matplotlib for animation and visualization, it features dynamic color mapping based on region, a toggle button to start or stop the animation, and customization options for text and layout. The animation progresses through each year, showcasing the top 10 cities by population, with color coding indicating their geographical region. Ideal for educational purposes or data storytelling, it offers insights into urbanization trends over time.
